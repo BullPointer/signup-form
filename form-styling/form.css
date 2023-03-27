@@ -32,6 +32,7 @@
 }
 
 .form-box form .input-box div input{
+    font-family: 'Bona Nova', serif;
     padding: 5px;
     border-radius: 3px;
     border: none;
@@ -49,7 +50,9 @@
     outline: none;
     border-bottom: 1px solid blue;
 }
-
+.form-box form .input-box .invalid {
+    color: red;
+}
 .form-box form .submit-box button{
     padding: 8px;
     margin-top: 10px;
