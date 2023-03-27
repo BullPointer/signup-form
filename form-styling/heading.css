@@ -1,0 +1,24 @@
+
+.form-box header {
+    background: rgb(248, 247, 247);
+    padding: 2em;
+
+}
+.form-box header div:first-child{
+    font-size: 25px;
+    padding: 10px;
+}
+.form-box header div:nth-child(2) {
+    color: rgb(154, 154, 170);
+    font-size: 20px;
+    padding: 10px;
+}
+
+.form-box .msg {
+    width: 100%;
+    padding: 12px 12px 12px 40px;
+    font-size: 25px;
+    background: white;
+    color: rgb(51, 49, 49);
+    font-weight: bold;
+}
